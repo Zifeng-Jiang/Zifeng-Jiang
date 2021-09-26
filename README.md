@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zifeng-Jiang, a graduate student from Northeastern University(Boston)
+- 👋 Hi, I’m @Zifeng-Jiang, a graduate student at Northeastern University(Boston)
 - 👀 I’m interested in Data Science & Python
 - 🌱 I’m currently learning Java, Python & Machine Learning
 - 💞️ I’m looking forward to learn NLP
