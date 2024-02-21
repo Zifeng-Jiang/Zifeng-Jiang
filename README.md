@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zifeng-Jiang, a graduate student at Northeastern University(Boston)
-- 👀 I’m interested in Data Science, Python & AI
+- 👀 I’m interested in AI, Data Science & Python 
 - 🌱 I’m currently learning Generative AI & LLMs
 - 💞️ I’m looking forward to learn Prompt Engineering
 - 📫 Feel free to contact me: jzf.job@gmail.com
