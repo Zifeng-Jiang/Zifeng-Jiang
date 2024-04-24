@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zifeng-Jiang, a graduate student at Northeastern University(Boston)
+- 👋 Hi, I’m @Zifeng-Jiang, graduated from Northeastern University(Boston), working as an AI Engineer @ Dreame Technology Co., Ltd.
 - 👀 I’m interested in AI, Data Science & Python 
-- 🌱 I’m currently learning Generative AI & LLMs
-- 💞️ I’m looking forward to learn Multi-models
+- 🌱 I’m currently learning text-to-image models
+- 💞️ I’m looking forward to learn ways to fine-tuning LLMs
 - 📫 Feel free to contact me: jzf.job@gmail.com
 
 <!---
