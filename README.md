@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zifeng-Jiang, graduated from Northeastern University(Boston), working as an AI Engineer @ Dreame Technology Co., Ltd.
-- 👀 I’m interested in AI, Data Science & Python 
-- 🌱 I’m currently learning text-to-image models
+- 👋 Hi, I’m @Zifeng-Jiang, graduated from Northeastern University(Boston), working as an AI Algorithm Engineer @ STAR.VISION Aerospace Group Limited
+- 👀 I’m interested in AI, LLMs & Python 
+- 🌱 I’m currently learning NVIDIA TensorRT-LLM & Triton Inference Server
 - 💞️ I’m looking forward to learn Multimodal Algorithms
 - 📫 Feel free to contact me: jzf.job@gmail.com
 
