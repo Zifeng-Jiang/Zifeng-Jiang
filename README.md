@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zifeng-Jiang, graduated from Northeastern University(Boston), working as an AI Algorithm Engineer @ STAR.VISION Aerospace Group Limited
-- 👀 I’m interested in AI, LLMs & Python 
-- 🌱 I’m currently learning RAG, NVIDIA TensorRT-LLM & Triton Inference Server
-- 💞️ I’m looking forward to learn Multimodal Algorithms
+- 👀 I’m interested in AI/ML, LLMs & Python 
+- 🌱 I’m currently working on multi AI agent systems(MAS)
+- 💞️ I’m looking forward to learn AI product management skills
 - 📫 Feel free to contact me: jzf.job@gmail.com
 
 <!---
